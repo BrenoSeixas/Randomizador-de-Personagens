@@ -1,0 +1,15 @@
+C:\Users\Breno\Desktop\Projetos\Randomizador-de-Personagens\Randomizador\Randomizador\bin\Debug\net8.0\Randomizador.exe
+C:\Users\Breno\Desktop\Projetos\Randomizador-de-Personagens\Randomizador\Randomizador\bin\Debug\net8.0\Randomizador.deps.json
+C:\Users\Breno\Desktop\Projetos\Randomizador-de-Personagens\Randomizador\Randomizador\bin\Debug\net8.0\Randomizador.runtimeconfig.json
+C:\Users\Breno\Desktop\Projetos\Randomizador-de-Personagens\Randomizador\Randomizador\bin\Debug\net8.0\Randomizador.dll
+C:\Users\Breno\Desktop\Projetos\Randomizador-de-Personagens\Randomizador\Randomizador\bin\Debug\net8.0\Randomizador.pdb
+C:\Users\Breno\Desktop\Projetos\Randomizador-de-Personagens\Randomizador\Randomizador\obj\Debug\net8.0\Randomizador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Breno\Desktop\Projetos\Randomizador-de-Personagens\Randomizador\Randomizador\obj\Debug\net8.0\Randomizador.AssemblyInfoInputs.cache
+C:\Users\Breno\Desktop\Projetos\Randomizador-de-Personagens\Randomizador\Randomizador\obj\Debug\net8.0\Randomizador.AssemblyInfo.cs
+C:\Users\Breno\Desktop\Projetos\Randomizador-de-Personagens\Randomizador\Randomizador\obj\Debug\net8.0\Randomizador.csproj.CoreCompileInputs.cache
+C:\Users\Breno\Desktop\Projetos\Randomizador-de-Personagens\Randomizador\Randomizador\obj\Debug\net8.0\Randomizador.sourcelink.json
+C:\Users\Breno\Desktop\Projetos\Randomizador-de-Personagens\Randomizador\Randomizador\obj\Debug\net8.0\Randomizador.dll
+C:\Users\Breno\Desktop\Projetos\Randomizador-de-Personagens\Randomizador\Randomizador\obj\Debug\net8.0\refint\Randomizador.dll
+C:\Users\Breno\Desktop\Projetos\Randomizador-de-Personagens\Randomizador\Randomizador\obj\Debug\net8.0\Randomizador.pdb
+C:\Users\Breno\Desktop\Projetos\Randomizador-de-Personagens\Randomizador\Randomizador\obj\Debug\net8.0\Randomizador.genruntimeconfig.cache
+C:\Users\Breno\Desktop\Projetos\Randomizador-de-Personagens\Randomizador\Randomizador\obj\Debug\net8.0\ref\Randomizador.dll
