@@ -1,0 +1,1 @@
+# Randomizador-de-Personagens
