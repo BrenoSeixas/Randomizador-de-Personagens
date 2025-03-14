@@ -8,17 +8,25 @@ namespace Randomizador
 {
     internal class TesteVector
     {
-        public int[] imagem = new int[10];
-
+        public List<int> imagem = new List<int>();
 
         public TesteVector()
         {
 
         }
 
-        public TesteVector(int[] imagem)
+        public TesteVector(List<int> imagem)
         {
-            this.imagem = imagem;
+           this.imagem = imagem;
         }
+
+
+        public void Randomizador()
+        {
+            imagem.Add(1);
+            imagem.Add(2);
+            imagem.Add(3);
+        }
+
     }
 }
